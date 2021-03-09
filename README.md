@@ -36,7 +36,7 @@ The MOD recognises when one of the above Conquest maps are loaded on the server 
 - Spawn 1 to 2 Dirtbikes (depending on level/game mode size) at each teams deployment for levels that already had some Dirtbikes previously.
 
 # Notes:
-The Close Quarters Conquest Domnination maps are excluded, they are too small to have Dirtbikes running around.
-Operation Metro Conquest Maps are excluded - the level is just not appropriate for having Dirtbikes on.
-On the Noshahr Canals levels the US teams Dirtbikes are spawned at one of the flags near their deployment.
-On the maps using Conquest Assault the Defending teams Dirtbikes are spawned at one of the flags further away from the attacking teams deployment.
+- The Close Quarters Conquest Domnination maps are excluded, they are too small to have Dirtbikes running around.
+- Operation Metro Conquest Maps are excluded - the level is just not appropriate for having Dirtbikes on.
+- On the Noshahr Canals levels the US teams Dirtbikes are spawned at one of the flags near their deployment.
+- On the maps using Conquest Assault the Defending teams Dirtbikes are spawned at one of the flags further away from the attacking teams deployment.
