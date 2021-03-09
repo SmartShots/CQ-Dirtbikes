@@ -1,0 +1,13 @@
+{
+	"Name": "CQ-Dirtbikes",
+	"Authors": ["SmartShots"],
+	"Description": "A VU Mod to add Dirtbikes to the Conquest maps!",
+	"URL": "https://github.com/SmartShots/CQ-Dirtbikes",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Tags": ["cq-dirtbikes"],
+	"Dependencies": {
+		"veniceext": "^1.0.0"
+	}
+}
